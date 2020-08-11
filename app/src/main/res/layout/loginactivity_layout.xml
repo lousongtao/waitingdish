@@ -34,7 +34,7 @@
         android:layout_marginTop="100dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="kitchen" />
+        android:text="cash1" />
 
     <Button
         android:id="@+id/btn_login"

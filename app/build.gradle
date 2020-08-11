@@ -12,7 +12,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.1"
     defaultConfig {
-        applicationId "com.shuishou.cheforder"
+        applicationId "com.shuishou.waitingdish"
         minSdkVersion 19
         targetSdkVersion 25
         versionCode 20180625
@@ -37,8 +37,8 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.0.0'
     compile 'com.android.support:design:25.0.0'
-    compile 'com.yanzhenjie.nohttp:nohttp:1.1.2'
-    compile 'com.yanzhenjie.nohttp:okhttp:1.1.2'
+    compile 'com.yanzhenjie.nohttp:nohttp:1.1.11'
+    compile 'com.yanzhenjie.nohttp:okhttp:1.1.11'
     testCompile 'junit:junit:4.12'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.android.support:recyclerview-v7:25.0.0'
